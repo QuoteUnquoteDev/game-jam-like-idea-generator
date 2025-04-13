@@ -10,7 +10,7 @@ game jam.
 
 
 ### Attributions:
-Uses Colorama by Jonathan Hartley published under the BSD 3-Clause "New" or "Revised" License: https://github.com/tartley/colorama/tree/master
-Noun and adjective lists made by crazy hugsy and published under the MIT license: https://github.com/hugsy/stuff
-Lists of genres and features from the steamworks documentation: https://partner.steamgames.com/doc/store/tags
+- Uses Colorama by Jonathan Hartley published under the BSD 3-Clause "New" or "Revised" License: https://github.com/tartley/colorama/tree/master
+- Noun and adjective lists made by crazy hugsy and published under the MIT license: https://github.com/hugsy/stuff
+- Lists of genres and features from the steamworks documentation: https://partner.steamgames.com/doc/store/tags
 
