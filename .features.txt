@@ -1,0 +1,48 @@
+Story Rich
+Combat
+Controller
+Female Protagonist
+Choices Matter
+Open World
+PvP
+PvE
+Linear
+Multiple Endings
+Physics
+Character Customizations
+Crafting
+Procedural Generation
+Turn-based Combat
+Tabletop
+Turn-based Tactics
+Hack and Slash
+Resource Management
+Base Building
+Score Attack
+Text-based
+Stealth
+Narration
+Conversation
+Nonlinear
+Perma-death
+Team-based
+Deckbuilding
+Artificial Intelligence
+Inventory Management
+Level Editor
+Grid-based Movement
+Moddable
+Automaton
+Class-based
+Vehicular Combat
+Gun Customization
+6DOF
+Trading
+Bullet Time
+Time Manipulation
+Quick Time Events
+Dynamic Narration
+Hex Grid
+Naval Combat
+Music Based Procedural Generation
+Unexpected Twist
