@@ -3,8 +3,8 @@
 My code is published under the MIT License.
 
 This is a small little project I made one night to teach myself the very basics of python.
-It gives you random ideas for speed game development as if you were participating in a
-game jam.
+It gives you random ideas for speed game development and prototyping as if you were participating
+in a game jam.
 
 ![Screenshot of the generator function](screenshot.png)
 
